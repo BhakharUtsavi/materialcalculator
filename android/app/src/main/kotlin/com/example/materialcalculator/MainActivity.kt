@@ -1,0 +1,5 @@
+package com.example.materialcalculator
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
